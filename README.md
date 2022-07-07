@@ -18,3 +18,4 @@ A machine learning project that aims to predict movies Box Office revenue using 
   - The second modeling technique was XGboost with hyperparameters tuning and cross-validation this gave us an R^2 score of 0.67.
 # Evaluation
   Different Evaluation Metrics were used including Mean Sqaured Error(MSE), Mean Squared Logarithmic Error(MSLE) and coefficient of determination R^2 of the prediction.
+  The values of each metric are available in the notebook.
