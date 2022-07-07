@@ -10,6 +10,7 @@ A machine learning project that aims to predict movies Box Office revenue using 
   Data was collected from two different sources:
   - The first source is IMDB datasets where we got data about movie title, crew, actors and release data.
   - The second source is The Movie Database where we used there free API to collect data about movie budget, popularity, production companies ...etc.
+  The data is available on: https://drive.google.com/file/d/1iDgryhEhHqV59d9HC8ft3c4dKFOtdiug/view?usp=sharing
 # Data preprocessing
   In this phase data was cleaned from any noise, and representations were created for certain categorical columns like actors, crew, MPAA ...etc.
 # Modeling
